@@ -4,14 +4,14 @@ A small encoder-decoder Transformer implemented from scratch in PyTorch, trained
 translate German sentences into English on the Multi30k dataset.
 
 ## Credits
-Based on the 'Modern Route-Full Stack GenerativeAI And Agentic AI Bootcamp' by Krish Naik & Sunny Savita.
-Github Link: https://github.com/sunnysavita10/Full-Stack-GenAI-Bootcamp-1.0
-Modified by Avantika Poddar.
+- Based on the 'Modern Route-Full Stack GenerativeAI And Agentic AI Bootcamp' by Krish Naik & Sunny Savita.
+- Github Link: https://github.com/sunnysavita10/Full-Stack-GenAI-Bootcamp-1.0
+- Modified by Avantika Poddar.
 
 ## Research Papers for understanding Encoder-Decoder architecture
-Transformer-attention-all-you-need:
+- Transformer-attention-all-you-need:
 https://arxiv.org/pdf/1706.03762
-OG blog on the transformer:
+- OG blog on the transformer:
 https://jalammar.github.io/illustrated-transformer/
 
 ## Transformer Architecture to understand the code 
