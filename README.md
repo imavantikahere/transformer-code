@@ -52,7 +52,7 @@ Longer training should improve this.
 
 
 ## Future work
--Train for more epochs (about 10 to 30) with N_EPOCHS.
--Try a higher learning rate with warmup, or a larger model (D_MODEL, NUM_LAYERS).
--Use beam search instead of greedy decoding.
--Measure quality with BLEU score instead of only loss and perplexity.
+- Train for more epochs (about 10 to 30) with N_EPOCHS.
+- Try a higher learning rate with warmup, or a larger model (D_MODEL, NUM_LAYERS).
+- Use beam search instead of greedy decoding.
+- Measure quality with BLEU score instead of only loss and perplexity.
